@@ -1,0 +1,12 @@
+*
+!.gitignore
+!*.java
+!*.md
+!*.txt
+!*.uxf
+!*.pdf
+!*.svg
+!*.wav
+!*.fxml
+!*.drawio
+!*/
